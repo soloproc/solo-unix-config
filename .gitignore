@@ -2,3 +2,10 @@ wps/
 .viminfo
 .cache/
 .vim/
+tmp/
+bin/
+lib/
+share/
+.wget-hsts
+.zcompdump-coin-OptiPlex-7050-5.5.1
+.zsh_history
