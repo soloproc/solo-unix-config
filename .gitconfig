@@ -1,7 +1,0 @@
-[user]
-	email = liejin.huang@gmail.com
-	name = soloproc
-[push]
-	default = simple
-[credential]
-	helper = store

@@ -1,5 +1,6 @@
 wps/
 .ssh
+.gitconfig
 .viminfo
 .cache/
 .vim/
