@@ -14,7 +14,8 @@ set wildmenu
 " 配色方案
 set background=dark
 set t_Co=256
-colorscheme molokai 
+" colorscheme molokai 
+colorscheme one
 
 " space-vim-dark config
 hi Normal     ctermbg=NONE guibg=NONE
